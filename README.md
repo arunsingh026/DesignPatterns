@@ -14,7 +14,7 @@
     Façade
     Flyweight
     Proxy
-Behavioral Design Patterns
+## Behavioral Design Patterns
     Chain of Responsibility
     Command
     Interpreter
