@@ -10,7 +10,7 @@ namespace FactoryDesignPatterns
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("-----------Employee Management System!!!-------------");
+            Console.WriteLine("-----------Employee Management System!!!---------------");
             Console.Write("Please enter employee type to get 'Bonus' & 'Pay' info!-> ");
             int employeeType = Convert.ToInt32(Console.ReadLine()); 
             EmployeeManagerFactory empFactory = new EmployeeManagerFactory();
